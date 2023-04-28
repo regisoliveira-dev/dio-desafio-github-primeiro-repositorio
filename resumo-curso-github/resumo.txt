@@ -17,7 +17,18 @@ Criar um diretório no computador e criar um arquivo .txt
 
 $ echo > resumo.txt
 
+Add arquivo
+
 $ git add .
+
+Fazer o commit
+
+$ git commit -m "Inclusão do resumo do cruso de Git/GitHub"
+
+Enviar para o Git/GitHum
+
+$ git push origin main
+
 
 
 
