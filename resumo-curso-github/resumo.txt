@@ -1,0 +1,23 @@
+Criar repositório do GitHub
+
+Primeiro, crie um repositório no Git/Hub
+
+Nome: dio-desafio-github-primeiro-repositorio 
+
+No computador cria uma pasta para o projeto:
+
+Mkdir projeto-dio
+
+No Git/Hub copie a URL/HTTP para clonar para o seu projeto local.
+
+$ git clone https://github.com/regisoliveira-dev/dio-desafio-github-primeiro-repositorio.git
+
+
+Criar um diretório no computador e criar um arquivo .txt
+
+$ echo > resumo.txt
+
+$ git add .
+
+
+
